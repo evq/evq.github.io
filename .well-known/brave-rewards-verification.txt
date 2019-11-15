@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: evq.github.io
+Token: 45c76eaa2cb5dee02f6ae20d3eabed2f12ec505df5b61070421f810ea85a98ae
